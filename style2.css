@@ -13,7 +13,7 @@
 .margin-bot-10 {padding-bottom:10px;}
 
 #parallax-world-of-ugg {
-    width: 599px;
+    max-width: 599px;
     margin: 0 auto;}
 
 /* Typography */
