@@ -13,6 +13,10 @@
 .margin-top-10 {padding-top:10px;}
 .margin-bot-10 {padding-bottom:10px;}
 
+.parallax-world-of-ugg {
+    max-width: 599px;
+    margin: auto;}
+
 /* Typography */
 /**************************/
 #parallax-world-of-ugg h1 {font-family:'Oswald', sans-serif; font-size:70px; font-weight:400; text-transform: uppercase; color:black; padding:0; margin:0;}
