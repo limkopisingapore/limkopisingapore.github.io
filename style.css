@@ -5,12 +5,6 @@
 #content-desktop {display: block;}
     #content-mobile {display: none;}
 
-@media (max-width: 768px) {
-
-#content-desktop {display: none;}
-#content-mobile {display: block;}
-
-}
 
 /* Override UGG site */
 #main {width: 100%; padding:0;}
