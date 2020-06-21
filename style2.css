@@ -4,6 +4,8 @@
 #content-desktop {display: none;}
 #content-mobile {display: block;}
 
+html {
+  scroll-behavior: smooth;}
 
 /* Override UGG site */
 #main {width: 100%; padding:0;}
