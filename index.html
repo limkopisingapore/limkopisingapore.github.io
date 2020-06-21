@@ -3,13 +3,21 @@
 
 <head>
   
-  <link rel="stylesheet" media="screen and (max-device-width: 599px)" href="style2.css" />
-  <link rel="stylesheet" media="screen and (min-device-width: 600px)" href="style.css" />
+  <link rel="stylesheet" media="screen and (max-device-width: 949px)" href="style2.css" />
+  <link rel="stylesheet" media="screen and (min-device-width: 950px)" href="style.css" />
   <script src="script.js"></script>
     <title>Lim Kopi: The Singapore Community for everyone to share.</title>
     <link rel="icon" 
       type="image/png" 
       href="Slide4.png">
+  
+  <script type="text/javascript">
+    $(window).on('load resize',function(){
+        if($(window).width() < 950){
+            window.location = "https://www.google.com"
+        }
+    });
+</script>
 </head>
     
 
