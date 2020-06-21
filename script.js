@@ -1,3 +1,11 @@
+<script type="text/javascript">
+    $(window).on('load resize',function(){
+        if($(window).width() < 950){
+            window.location = "https://www.google.com"
+        }
+    });
+</script>
+
 window.smoothScroll = function (target) {
   var scrollContainer = target;
   do {
