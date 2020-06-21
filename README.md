@@ -5,9 +5,12 @@ Welcome to Lim Kopi Singapore's Website.
 Visit the website at https://limkopisingapore.github.io.
 This website was coded with HTML, CSS, JS.
 
-The page is auto-resized for mobile and web. We have two versions of the page, and it loads based on your screen size. Should the page load wrongly, please head over to https://limkopisingapore.github.io/probable-eureka/ for our mobile version, and *not yet duplicated* for our web version.
+The page is auto-resized for mobile and web. We have two versions of the page, and it loads based on your screen size. Should the page load wrongly, please head over to https://limkopisingapore.github.io/probable-eureka/ for our mobile version, and \**not yet duplicated*\* for our web version.
 
 Thank you for coming over to support Lim Kopi Singapore. We hope that you can continue to share this initiative so we can reach out to as many people as we can in this community. TLDR: Lim Kopi is a open activity/conversation community, for seniors or anyone really to learn from each other during this period of time. Please, really hope that you can share and support us. *Please.* **Thank you**.
+
+Facebook: https://www.facebook.com/Lim-Kopi-Community-106732751090694
+Instagram: https://www.instagram.com/limkopisg
 
 Just email us at limkopisingapore@gmail.com to talk about your suggestions, ideas, over kopi.
 If you would like to be a volunteer, feel free to email as well.
