@@ -45,16 +45,7 @@ hr.solid {
 .ny {color: #3d3c3a;}
 .atw {color: #c48660;}
 
-/* Section - Title */
-/**************************/
-#parallax-world-of-ugg .title {background: white; padding: 60px; margin:0 auto; text-align:center;}
-#parallax-world-of-ugg .title h1 {font-size:35px; letter-spacing:8px;}
 
-/* Section - Block */
-/**************************/
-#parallax-world-of-ugg .block {background: white; padding: 60px; width:820px; margin:0 auto; text-align:justify;}
-#parallax-world-of-ugg .block-gray {background: #f2f2f2;padding: 60px;}
-#parallax-world-of-ugg .section-overlay-mask {position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: black; opacity: 0.70;}
 
 /* Section - Parallax */
 /**************************/
@@ -71,15 +62,6 @@ hr.solid {
 /**************************/
 
 
-
-.toc_title {
-    font-weight: 700;
-    text-align: center;
-}
-
-#toc_container li, #toc_container ul, #toc_container ul li{
-    list-style: outside none none !important;
-}
 
 footer {
     background-color:rgb(35,25,20);
